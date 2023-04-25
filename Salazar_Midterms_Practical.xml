@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">SerialNumber</Data></Cell>
+			<Cell><Data ss:Type="String">Make</Data></Cell>
+			<Cell><Data ss:Type="String">Model</Data></Cell>
+			<Cell><Data ss:Type="String">ProcessorType</Data></Cell>
+			<Cell><Data ss:Type="String">MainMemory</Data></Cell>
+			<Cell><Data ss:Type="String">DiskSize</Data></Cell>
+			<Cell><Data ss:Type="String">Graphics</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">6541001</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9020</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4770</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6541002</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9021</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4771</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6541003</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9022</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4772</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6541004</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9023</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4773</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6541005</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9024</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4774</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6541006</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">OptiPlex 9025</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i7-4775</Data></Cell>
+			<Cell><Data ss:Type="String">8.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871234</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4530</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871245</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4531</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871256</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4532</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871267</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4533</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871278</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4534</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9871289</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Pavillion 500-210qe</Data></Cell>
+			<Cell><Data ss:Type="String">Intel i5-4535</Data></Cell>
+			<Cell><Data ss:Type="String">6.0 Gbytes</Data></Cell>
+			<Cell><Data ss:Type="String">1.0 Tbytes</Data></Cell>
+			<Cell><Data ss:Type="String">Integrated Intel HD Graphics 4600</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
